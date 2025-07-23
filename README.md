@@ -1,1 +1,2 @@
-# AICTE-Garbage-Classification
+# Employee-Salary-Prediction
+In today’s competitive job market, determining fair and accurate employee salaries is a critical challenge for organizations. Human Resources teams often rely on manual methods or outdated tools that fail to consider the complex relationships between experience, education, job roles, and other key factors. This lack of data-driven insights can result in unfair compensation, employee dissatisfaction, and talent attrition. Additionally, biases and inefficiencies in the salary prediction process hinder an organization’s ability to attract and retain skilled professionals. To address these challenges, there is a need for an AI-powered system capable of predicting employee salaries with accuracy and transparency.
